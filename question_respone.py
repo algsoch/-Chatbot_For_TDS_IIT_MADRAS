@@ -87,7 +87,7 @@ def query_tds_api(questions_file, output_csv):
 
 if __name__ == "__main__":
     # Set file paths
-    questions_file = "E:/data science tool/main/grok/vickys.json"
+    questions_file = "BodhAi/vickys.json"
     output_csv = "tds_api_results.csv"
     
     # Run the query process
