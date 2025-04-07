@@ -2,7 +2,7 @@ name: Run Python script every 30 minutes
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   run-script:
@@ -23,4 +23,4 @@ jobs:
         pip install requests
 
     - name: Run Python script
-      run: python BodhAi/question_respone.py
+      run: python question_respone.py
