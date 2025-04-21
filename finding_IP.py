@@ -1,37 +1,8 @@
-# import json
-# from collections import defaultdict
-
-# # Path to your JSON file
-# json_file_path = "e:\\data science tool\\main\\grok\\ip_logs.json"
-
-# # Dictionary to store unique IP-endpoint combinations
-# ip_endpoint_map = defaultdict(set)
-
-# # Load and process the JSON data
-# with open(json_file_path, 'r') as file:
-#     logs = json.load(file)
-    
-#     # Extract unique IP and endpoint combinations
-#     for entry in logs:
-#         ip = entry.get("ip_address")
-#         endpoint = entry.get("endpoint")
-#         time = entry.get('timestamp')
-#         if ip and endpoint:
-#             ip_endpoint_map[ip].add(endpoint)
-
-# # Output the results
-# print(f"Found {len(ip_endpoint_map)} unique IP addresses:")
-# print("-" * 50)
-
-# for ip, endpoints in ip_endpoint_map.items():
-#     print(f"IP: {ip}")
-#     print(f"Accessed endpoints: {', '.join(endpoints)}")
-#     print("-" * 50)
 import json
 from collections import defaultdict
 
 # Path to your JSON file
-json_file_path = "e:\\data science tool\\main\\grok\\ip_logs.json"
+json_file_path = "ip_logs.json"
 
 # Dictionary to store unique IP-endpoint combinations
 ip_endpoint_map = defaultdict(set)
