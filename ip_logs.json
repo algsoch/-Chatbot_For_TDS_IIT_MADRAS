@@ -1,0 +1,3229 @@
+[
+  {
+    "timestamp": "2025-04-16T23:01:54.594478",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:01:54.703277",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:01:55.568690",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:01:55.836047",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:02:07.736363",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns: type, units, and price. Each row is "
+  },
+  {
+    "timestamp": "2025-04-16T23:02:08.019244",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-16T23:02:08.102838",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Publish a page using GitHub Pages that showcases your work. Ensure that your email address 24f200643"
+  },
+  {
+    "timestamp": "2025-04-16T23:02:08.840708",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning 2FA and having a min"
+  },
+  {
+    "timestamp": "2025-04-16T23:02:16.522304",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-16T23:06:55.923880",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:06:56.045713",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:06:56.888603",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:06:57.646715",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:09:58.251546",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Ent"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:02.223382",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS req"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:03.756269",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use npx and prettier.\n\nDownload README.md. In the directory where yo"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:05.343986",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can write formulas in Google Sheets. Type this formula into Google Sheets. (It w"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:06.942887",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "'Let's make sure you can write formulas in Excel. Type this formula into Excel.\n\nNote: This will ONL"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:08.491643",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Just above this paragraph, there's a hidden input with a secret value.\n\nWhat is the value in the hid"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:09.496269",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "How many Wednesdays are there in the date range 1981-03-03 to 2012-12-30?"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:11.064723",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "file name is q-extract-csv-zip.zip and unzip file  which has a single extract.csv file inside."
+  },
+  {
+    "timestamp": "2025-04-16T23:10:12.688366",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use JSON. Sort this JSON array of objects by the value of the age fi"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:14.271812",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "+Download q-mutli-cursor-json.txt and use multi-cursors and convert it into a single JSON object, wh"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:23.668201",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to select elements using CSS selectors. Find all <div>s having a foo cl"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:37.340728",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-unicode-data.zip and process the files in  which contains three files with different enco"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:38.800227",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a "
+  },
+  {
+    "timestamp": "2025-04-16T23:10:45.363367",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-replace-across-files.zip  and unzip it into a new folder, then replace all \"IITM\" (in upp"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:46.525119",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use ls with options to list all files in the folder along with their date "
+  },
+  {
+    "timestamp": "2025-04-16T23:10:48.898763",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use mv to move all files under folders into an empty folder. Then rename a"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:50.496036",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-compare-files.zip and extract it. It has 2 nearly identical files, a.txt and b.txt, with "
+  },
+  {
+    "timestamp": "2025-04-16T23:10:51.415214",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns type, units, and price. Each row is a"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:53.010100",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write documentation in Markdown for an **imaginary** analysis of the number of steps you walked each"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:53.997700",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download the image below and compress it losslessly to an image that is less than 1,500 bytes.\nvicky"
+  },
+  {
+    "timestamp": "2025-04-16T23:10:59.689186",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Publish a page using GitHub Pages that showcases your work. Ensure that your email address 24f200643"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:06.869055",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can access Google Colab. Run this program on Google Colab, allowing all required"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:08.495983",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download 'E:\\data science tool\\GA2\\lenna.webp' this image. Create a new Google Colab notebook and ru"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:10.775570",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download this ql-python.json which has the marks of 100 imaginary students.\n\nCreate and deploy a Pyt"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:12.382571",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action "
+  },
+  {
+    "timestamp": "2025-04-16T23:11:21.791939",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create and push an image to Docker Hub. Add a tag named 24f2006438 to the image.\n\nWhat is the Docker"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:23.831863",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-fastapi.csv. This file has 2-columns:\n\nstudentId: A unique identifier for each student, e"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:29.527202",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download Llamafile. Run the Llama-3.2-1B-Instruct.Q6_K.llamafile model with it.\n\nCreate a tunnel to "
+  },
+  {
+    "timestamp": "2025-04-16T23:11:56.408407",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:56.454540",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:11:57.218049",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:36.586056",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:37.763528",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a Python program that uses httpx to send a POST request to OpenAI's API to analyze the sentime"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:39.413084",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:41.108494",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "RapidRoute Solutions is a logistics and delivery company that relies on accurate and standardized ad"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:42.777457",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write just the JSON body (not the URL, nor headers) for the POST request that sends these two pieces"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:44.321021",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "SecurePay, a leading fintech startup, has implemented an innovative feature to detect and prevent fr"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:45.870022",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ShopSmart is an online retail platform that places a high value on customer feedback. Each month, th"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:47.803648",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "InfoCore Solutions is a technology consulting firm that maintains an extensive internal knowledge ba"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:53.446652",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Develop a FastAPI application that:\n\nExposes a GET endpoint /execute?q=... where the query parameter"
+  },
+  {
+    "timestamp": "2025-04-16T23:12:58.627051",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Prompt to Yes"
+  },
+  {
+    "timestamp": "2025-04-16T23:13:00.121882",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ESPN Cricinfo has ODI batting stats for each batsman. The result is paginated across multiple pages."
+  },
+  {
+    "timestamp": "2025-04-16T23:13:38.349040",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Source: Utilize IMDb's advanced web search at https://www.imdb.com/search/title/ to access movie dat"
+  },
+  {
+    "timestamp": "2025-04-16T23:13:58.458540",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a web application that exposes an API with a single query parameter: ?country=. It should fetc"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:04.082356",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of this initiative, you are tasked with developing a system that automates the following:\n\nA"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:05.878014",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating the extraction and processing of bounding box data, UrbanRide can:\n\nOptimize Routing: "
+  },
+  {
+    "timestamp": "2025-04-16T23:14:14.821774",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning Text Editor and havi"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:17.888757",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating this data retrieval and filtering process, CodeConnect gains several strategic advanta"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:18.869475",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow "
+  },
+  {
+    "timestamp": "2025-04-16T23:14:27.786821",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This file '''E://data science tool//GA4/q-extract-tables-from-pdf.pdf''',  contains a table of stude"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:35.789346",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of the Documentation Transformation Project, you are a junior developer at EduDocs tasked wi"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:37.740727",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "You need to clean this Excel data and calculate the total margin for all transactions that satisfy t"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:40.000541",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at EduTrack Systems, your task is to process this text file and determine the numb"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:41.089382",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst, you are tasked with determining how many successful GET requests for pages under "
+  },
+  {
+    "timestamp": "2025-04-16T23:14:44.334287",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This GZipped Apache log file (61MB) \"E:\\data science tool\\GA5\\s-anand.net-May-2024.gz\" has 258,074 r"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:46.758206",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at GlobalRetail Insights, you are tasked with extracting meaningful insights from "
+  },
+  {
+    "timestamp": "2025-04-16T23:14:48.132584",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data recovery analyst at ReceiptRevive Analytics, your task is to develop a program that will:\n"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:49.860497",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:51.231923",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Your task as a data analyst at EngageMetrics is to write a query that performs the following:\n\nFilte"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:52.750002",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Access the Video: Use the provided YouTube link to access the mystery story audiobook.\nConvert to Au"
+  },
+  {
+    "timestamp": "2025-04-16T23:14:58.788724",
+    "ip_address": "20.43.245.197",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a digital forensics analyst at PixelGuard Solutions, your task is to reconstruct the original ima"
+  },
+  {
+    "timestamp": "2025-04-16T23:16:57.948615",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:16:58.903184",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:16:58.906624",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:17:36.966020",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:22.853114",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Ent"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:26.933403",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS req"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:30.934309",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use npx and prettier.\n\nDownload README.md. In the directory where yo"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:32.434586",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can write formulas in Google Sheets. Type this formula into Google Sheets. (It w"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:33.831094",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "'Let's make sure you can write formulas in Excel. Type this formula into Excel.\n\nNote: This will ONL"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:35.198803",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Just above this paragraph, there's a hidden input with a secret value.\n\nWhat is the value in the hid"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:36.633052",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "How many Wednesdays are there in the date range 1981-03-03 to 2012-12-30?"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:37.946684",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "file name is q-extract-csv-zip.zip and unzip file  which has a single extract.csv file inside."
+  },
+  {
+    "timestamp": "2025-04-16T23:21:39.485191",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use JSON. Sort this JSON array of objects by the value of the age fi"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:40.900079",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "+Download q-mutli-cursor-json.txt and use multi-cursors and convert it into a single JSON object, wh"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:49.835581",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to select elements using CSS selectors. Find all <div>s having a foo cl"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:59.263635",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:21:59.279583",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:03.337246",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:04.401862",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-unicode-data.zip and process the files in  which contains three files with different enco"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:05.284597",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a "
+  },
+  {
+    "timestamp": "2025-04-16T23:22:11.528861",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-replace-across-files.zip  and unzip it into a new folder, then replace all \"IITM\" (in upp"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:12.939375",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use ls with options to list all files in the folder along with their date "
+  },
+  {
+    "timestamp": "2025-04-16T23:22:18.465249",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use mv to move all files under folders into an empty folder. Then rename a"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:19.802291",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-compare-files.zip and extract it. It has 2 nearly identical files, a.txt and b.txt, with "
+  },
+  {
+    "timestamp": "2025-04-16T23:22:20.608534",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns type, units, and price. Each row is a"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:21.440124",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write documentation in Markdown for an **imaginary** analysis of the number of steps you walked each"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:22.935111",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download the image below and compress it losslessly to an image that is less than 1,500 bytes.\nvicky"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:24.007048",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Publish a page using GitHub Pages that showcases your work. Ensure that your email address 24f200643"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:31.555092",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can access Google Colab. Run this program on Google Colab, allowing all required"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:32.435914",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download 'E:\\data science tool\\GA2\\lenna.webp' this image. Create a new Google Colab notebook and ru"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:34.792586",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download this ql-python.json which has the marks of 100 imaginary students.\n\nCreate and deploy a Pyt"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:36.328793",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action "
+  },
+  {
+    "timestamp": "2025-04-16T23:22:37.355684",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:45.034373",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create and push an image to Docker Hub. Add a tag named 24f2006438 to the image.\n\nWhat is the Docker"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:46.929538",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-fastapi.csv. This file has 2-columns:\n\nstudentId: A unique identifier for each student, e"
+  },
+  {
+    "timestamp": "2025-04-16T23:22:52.004000",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download Llamafile. Run the Llama-3.2-1B-Instruct.Q6_K.llamafile model with it.\n\nCreate a tunnel to "
+  },
+  {
+    "timestamp": "2025-04-16T23:23:49.117977",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a Python program that uses httpx to send a POST request to OpenAI's API to analyze the sentime"
+  },
+  {
+    "timestamp": "2025-04-16T23:23:50.675385",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-16T23:23:52.383480",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "RapidRoute Solutions is a logistics and delivery company that relies on accurate and standardized ad"
+  },
+  {
+    "timestamp": "2025-04-16T23:23:53.855216",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write just the JSON body (not the URL, nor headers) for the POST request that sends these two pieces"
+  },
+  {
+    "timestamp": "2025-04-16T23:23:55.156263",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "SecurePay, a leading fintech startup, has implemented an innovative feature to detect and prevent fr"
+  },
+  {
+    "timestamp": "2025-04-16T23:23:56.638016",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ShopSmart is an online retail platform that places a high value on customer feedback. Each month, th"
+  },
+  {
+    "timestamp": "2025-04-16T23:23:58.015100",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "InfoCore Solutions is a technology consulting firm that maintains an extensive internal knowledge ba"
+  },
+  {
+    "timestamp": "2025-04-16T23:24:03.651403",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Develop a FastAPI application that:\n\nExposes a GET endpoint /execute?q=... where the query parameter"
+  },
+  {
+    "timestamp": "2025-04-16T23:24:08.160861",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Prompt to Yes"
+  },
+  {
+    "timestamp": "2025-04-16T23:24:08.969641",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ESPN Cricinfo has ODI batting stats for each batsman. The result is paginated across multiple pages."
+  },
+  {
+    "timestamp": "2025-04-16T23:24:26.191173",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Source: Utilize IMDb's advanced web search at https://www.imdb.com/search/title/ to access movie dat"
+  },
+  {
+    "timestamp": "2025-04-16T23:24:45.773397",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a web application that exposes an API with a single query parameter: ?country=. It should fetc"
+  },
+  {
+    "timestamp": "2025-04-16T23:24:50.697241",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of this initiative, you are tasked with developing a system that automates the following:\n\nA"
+  },
+  {
+    "timestamp": "2025-04-16T23:24:52.351686",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating the extraction and processing of bounding box data, UrbanRide can:\n\nOptimize Routing: "
+  },
+  {
+    "timestamp": "2025-04-16T23:25:01.268134",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning Text Editor and havi"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:04.960808",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating this data retrieval and filtering process, CodeConnect gains several strategic advanta"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:05.826164",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow "
+  },
+  {
+    "timestamp": "2025-04-16T23:25:14.522012",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This file '''E://data science tool//GA4/q-extract-tables-from-pdf.pdf''',  contains a table of stude"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:21.736686",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of the Documentation Transformation Project, you are a junior developer at EduDocs tasked wi"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:23.601081",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "You need to clean this Excel data and calculate the total margin for all transactions that satisfy t"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:25.677014",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at EduTrack Systems, your task is to process this text file and determine the numb"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:27.169525",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst, you are tasked with determining how many successful GET requests for pages under "
+  },
+  {
+    "timestamp": "2025-04-16T23:25:30.158180",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This GZipped Apache log file (61MB) \"E:\\data science tool\\GA5\\s-anand.net-May-2024.gz\" has 258,074 r"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:31.935250",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at GlobalRetail Insights, you are tasked with extracting meaningful insights from "
+  },
+  {
+    "timestamp": "2025-04-16T23:25:32.988517",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data recovery analyst at ReceiptRevive Analytics, your task is to develop a program that will:\n"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:34.574938",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:36.183150",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Your task as a data analyst at EngageMetrics is to write a query that performs the following:\n\nFilte"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:37.566958",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Access the Video: Use the provided YouTube link to access the mystery story audiobook.\nConvert to Au"
+  },
+  {
+    "timestamp": "2025-04-16T23:25:43.061820",
+    "ip_address": "172.183.76.173",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a digital forensics analyst at PixelGuard Solutions, your task is to reconstruct the original ima"
+  },
+  {
+    "timestamp": "2025-04-16T23:26:59.676452",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:26:59.906997",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:27:03.747345",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:27:37.780846",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:32:00.177812",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:32:00.308710",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:32:04.254137",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:32:38.974932",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:37:00.722851",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:37:04.616220",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:37:39.066786",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:37:39.418371",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:42:01.263811",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:42:04.996929",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:42:39.758770",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:42:40.170180",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:47:01.742785",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:47:05.422168",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:47:40.138423",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:47:40.543320",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:52:02.176068",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:52:05.807965",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:52:40.570148",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:52:41.014045",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:57:02.697936",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:57:06.161796",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:57:40.943534",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:57:41.330954",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-16T23:58:51.252112",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Ent"
+  },
+  {
+    "timestamp": "2025-04-16T23:58:55.085572",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS req"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:00.668115",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use npx and prettier.\n\nDownload README.md. In the directory where yo"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:02.152757",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can write formulas in Google Sheets. Type this formula into Google Sheets. (It w"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:03.445886",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "'Let's make sure you can write formulas in Excel. Type this formula into Excel.\n\nNote: This will ONL"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:04.920729",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Just above this paragraph, there's a hidden input with a secret value.\n\nWhat is the value in the hid"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:06.462161",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "How many Wednesdays are there in the date range 1981-03-03 to 2012-12-30?"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:07.869686",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "file name is q-extract-csv-zip.zip and unzip file  which has a single extract.csv file inside."
+  },
+  {
+    "timestamp": "2025-04-16T23:59:08.917760",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use JSON. Sort this JSON array of objects by the value of the age fi"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:09.811634",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "+Download q-mutli-cursor-json.txt and use multi-cursors and convert it into a single JSON object, wh"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:19.077640",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to select elements using CSS selectors. Find all <div>s having a foo cl"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:32.719291",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-unicode-data.zip and process the files in  which contains three files with different enco"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:33.685474",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a "
+  },
+  {
+    "timestamp": "2025-04-16T23:59:39.988126",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-replace-across-files.zip  and unzip it into a new folder, then replace all \"IITM\" (in upp"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:41.289416",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use ls with options to list all files in the folder along with their date "
+  },
+  {
+    "timestamp": "2025-04-16T23:59:42.779373",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use mv to move all files under folders into an empty folder. Then rename a"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:44.229553",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-compare-files.zip and extract it. It has 2 nearly identical files, a.txt and b.txt, with "
+  },
+  {
+    "timestamp": "2025-04-16T23:59:45.082907",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns type, units, and price. Each row is a"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:45.916547",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write documentation in Markdown for an **imaginary** analysis of the number of steps you walked each"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:50.866794",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download the image below and compress it losslessly to an image that is less than 1,500 bytes.\nvicky"
+  },
+  {
+    "timestamp": "2025-04-16T23:59:51.898459",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Publish a page using GitHub Pages that showcases your work. Ensure that your email address 24f200643"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00.116509",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can access Google Colab. Run this program on Google Colab, allowing all required"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:01.589670",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download 'E:\\data science tool\\GA2\\lenna.webp' this image. Create a new Google Colab notebook and ru"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:03.853337",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download this ql-python.json which has the marks of 100 imaginary students.\n\nCreate and deploy a Pyt"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:04.877094",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action "
+  },
+  {
+    "timestamp": "2025-04-17T00:00:14.114312",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create and push an image to Docker Hub. Add a tag named 24f2006438 to the image.\n\nWhat is the Docker"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:15.842105",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-fastapi.csv. This file has 2-columns:\n\nstudentId: A unique identifier for each student, e"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:21.298074",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download Llamafile. Run the Llama-3.2-1B-Instruct.Q6_K.llamafile model with it.\n\nCreate a tunnel to "
+  },
+  {
+    "timestamp": "2025-04-17T00:01:18.538924",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a Python program that uses httpx to send a POST request to OpenAI's API to analyze the sentime"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:20.042855",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:21.581097",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "RapidRoute Solutions is a logistics and delivery company that relies on accurate and standardized ad"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:23.077531",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write just the JSON body (not the URL, nor headers) for the POST request that sends these two pieces"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:24.387010",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "SecurePay, a leading fintech startup, has implemented an innovative feature to detect and prevent fr"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:25.776900",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ShopSmart is an online retail platform that places a high value on customer feedback. Each month, th"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:27.646253",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "InfoCore Solutions is a technology consulting firm that maintains an extensive internal knowledge ba"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:33.136901",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Develop a FastAPI application that:\n\nExposes a GET endpoint /execute?q=... where the query parameter"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:38.104585",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Prompt to Yes"
+  },
+  {
+    "timestamp": "2025-04-17T00:01:38.935824",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ESPN Cricinfo has ODI batting stats for each batsman. The result is paginated across multiple pages."
+  },
+  {
+    "timestamp": "2025-04-17T00:01:57.951861",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Source: Utilize IMDb's advanced web search at https://www.imdb.com/search/title/ to access movie dat"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:18.031903",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:19.070162",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a web application that exposes an API with a single query parameter: ?country=. It should fetc"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:24.042337",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of this initiative, you are tasked with developing a system that automates the following:\n\nA"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:25.991856",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating the extraction and processing of bounding box data, UrbanRide can:\n\nOptimize Routing: "
+  },
+  {
+    "timestamp": "2025-04-17T00:02:34.785779",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning Text Editor and havi"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:37.761422",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating this data retrieval and filtering process, CodeConnect gains several strategic advanta"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:39.232612",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow "
+  },
+  {
+    "timestamp": "2025-04-17T00:02:41.801929",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:42.311382",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:02:48.168117",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This file '''E://data science tool//GA4/q-extract-tables-from-pdf.pdf''',  contains a table of stude"
+  },
+  {
+    "timestamp": "2025-04-17T00:03:43.007236",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of the Documentation Transformation Project, you are a junior developer at EduDocs tasked wi"
+  },
+  {
+    "timestamp": "2025-04-17T00:03:44.796939",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "You need to clean this Excel data and calculate the total margin for all transactions that satisfy t"
+  },
+  {
+    "timestamp": "2025-04-17T00:03:46.759205",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at EduTrack Systems, your task is to process this text file and determine the numb"
+  },
+  {
+    "timestamp": "2025-04-17T00:03:48.186145",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst, you are tasked with determining how many successful GET requests for pages under "
+  },
+  {
+    "timestamp": "2025-04-17T00:03:51.259040",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This GZipped Apache log file (61MB) \"E:\\data science tool\\GA5\\s-anand.net-May-2024.gz\" has 258,074 r"
+  },
+  {
+    "timestamp": "2025-04-17T00:03:53.564180",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at GlobalRetail Insights, you are tasked with extracting meaningful insights from "
+  },
+  {
+    "timestamp": "2025-04-17T00:03:55.184241",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data recovery analyst at ReceiptRevive Analytics, your task is to develop a program that will:\n"
+  },
+  {
+    "timestamp": "2025-04-17T00:03:56.912717",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T00:03:58.640794",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Your task as a data analyst at EngageMetrics is to write a query that performs the following:\n\nFilte"
+  },
+  {
+    "timestamp": "2025-04-17T00:04:00.017364",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Access the Video: Use the provided YouTube link to access the mystery story audiobook.\nConvert to Au"
+  },
+  {
+    "timestamp": "2025-04-17T00:04:05.100172",
+    "ip_address": "172.183.183.19",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a digital forensics analyst at PixelGuard Solutions, your task is to reconstruct the original ima"
+  },
+  {
+    "timestamp": "2025-04-17T00:07:19.282784",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:07:42.363501",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:07:42.931288",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:07:43.500022",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:12:19.799608",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:12:43.319736",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:12:43.579951",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:12:43.895027",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:17:20.325784",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:17:43.686087",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:17:43.902292",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:17:44.354275",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:33.839935",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Ent"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:37.749425",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS req"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:41.742956",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use npx and prettier.\n\nDownload README.md. In the directory where yo"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:43.254580",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can write formulas in Google Sheets. Type this formula into Google Sheets. (It w"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:44.680756",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "'Let's make sure you can write formulas in Excel. Type this formula into Excel.\n\nNote: This will ONL"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:45.967731",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Just above this paragraph, there's a hidden input with a secret value.\n\nWhat is the value in the hid"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:47.346763",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "How many Wednesdays are there in the date range 1981-03-03 to 2012-12-30?"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:48.687036",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "file name is q-extract-csv-zip.zip and unzip file  which has a single extract.csv file inside."
+  },
+  {
+    "timestamp": "2025-04-17T00:19:49.605278",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use JSON. Sort this JSON array of objects by the value of the age fi"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:51.065838",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "+Download q-mutli-cursor-json.txt and use multi-cursors and convert it into a single JSON object, wh"
+  },
+  {
+    "timestamp": "2025-04-17T00:19:59.769825",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to select elements using CSS selectors. Find all <div>s having a foo cl"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:13.034493",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-unicode-data.zip and process the files in  which contains three files with different enco"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:14.309263",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a "
+  },
+  {
+    "timestamp": "2025-04-17T00:20:21.579825",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-replace-across-files.zip  and unzip it into a new folder, then replace all \"IITM\" (in upp"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:22.458546",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use ls with options to list all files in the folder along with their date "
+  },
+  {
+    "timestamp": "2025-04-17T00:20:23.838412",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use mv to move all files under folders into an empty folder. Then rename a"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:24.734453",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-compare-files.zip and extract it. It has 2 nearly identical files, a.txt and b.txt, with "
+  },
+  {
+    "timestamp": "2025-04-17T00:20:26.013459",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns type, units, and price. Each row is a"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:27.467094",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write documentation in Markdown for an **imaginary** analysis of the number of steps you walked each"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:28.816583",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download the image below and compress it losslessly to an image that is less than 1,500 bytes.\nvicky"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:29.833972",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Publish a page using GitHub Pages that showcases your work. Ensure that your email address 24f200643"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:37.558825",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can access Google Colab. Run this program on Google Colab, allowing all required"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:43.029121",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download 'E:\\data science tool\\GA2\\lenna.webp' this image. Create a new Google Colab notebook and ru"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:45.530027",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download this ql-python.json which has the marks of 100 imaginary students.\n\nCreate and deploy a Pyt"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:46.412899",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action "
+  },
+  {
+    "timestamp": "2025-04-17T00:20:55.260633",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create and push an image to Docker Hub. Add a tag named 24f2006438 to the image.\n\nWhat is the Docker"
+  },
+  {
+    "timestamp": "2025-04-17T00:20:57.990475",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-fastapi.csv. This file has 2-columns:\n\nstudentId: A unique identifier for each student, e"
+  },
+  {
+    "timestamp": "2025-04-17T00:21:03.136437",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download Llamafile. Run the Llama-3.2-1B-Instruct.Q6_K.llamafile model with it.\n\nCreate a tunnel to "
+  },
+  {
+    "timestamp": "2025-04-17T00:22:00.265298",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a Python program that uses httpx to send a POST request to OpenAI's API to analyze the sentime"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:01.799622",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:03.266007",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "RapidRoute Solutions is a logistics and delivery company that relies on accurate and standardized ad"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:04.870953",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write just the JSON body (not the URL, nor headers) for the POST request that sends these two pieces"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:06.309985",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "SecurePay, a leading fintech startup, has implemented an innovative feature to detect and prevent fr"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:07.764991",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ShopSmart is an online retail platform that places a high value on customer feedback. Each month, th"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:09.682459",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "InfoCore Solutions is a technology consulting firm that maintains an extensive internal knowledge ba"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:15.230076",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Develop a FastAPI application that:\n\nExposes a GET endpoint /execute?q=... where the query parameter"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:20.211729",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Prompt to Yes"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:20.887896",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:21.601957",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ESPN Cricinfo has ODI batting stats for each batsman. The result is paginated across multiple pages."
+  },
+  {
+    "timestamp": "2025-04-17T00:22:37.920701",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Source: Utilize IMDb's advanced web search at https://www.imdb.com/search/title/ to access movie dat"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:44.043034",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:44.306036",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:44.758519",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:22:58.450781",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a web application that exposes an API with a single query parameter: ?country=. It should fetc"
+  },
+  {
+    "timestamp": "2025-04-17T00:23:03.817564",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of this initiative, you are tasked with developing a system that automates the following:\n\nA"
+  },
+  {
+    "timestamp": "2025-04-17T00:23:05.343818",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating the extraction and processing of bounding box data, UrbanRide can:\n\nOptimize Routing: "
+  },
+  {
+    "timestamp": "2025-04-17T00:23:13.867160",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning Text Editor and havi"
+  },
+  {
+    "timestamp": "2025-04-17T00:23:16.527857",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating this data retrieval and filtering process, CodeConnect gains several strategic advanta"
+  },
+  {
+    "timestamp": "2025-04-17T00:23:17.977877",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow "
+  },
+  {
+    "timestamp": "2025-04-17T00:23:26.761531",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This file '''E://data science tool//GA4/q-extract-tables-from-pdf.pdf''',  contains a table of stude"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:23.977914",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of the Documentation Transformation Project, you are a junior developer at EduDocs tasked wi"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:25.584660",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "You need to clean this Excel data and calculate the total margin for all transactions that satisfy t"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:27.164585",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at EduTrack Systems, your task is to process this text file and determine the numb"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:28.543945",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst, you are tasked with determining how many successful GET requests for pages under "
+  },
+  {
+    "timestamp": "2025-04-17T00:24:31.557165",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This GZipped Apache log file (61MB) \"E:\\data science tool\\GA5\\s-anand.net-May-2024.gz\" has 258,074 r"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:33.968941",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at GlobalRetail Insights, you are tasked with extracting meaningful insights from "
+  },
+  {
+    "timestamp": "2025-04-17T00:24:35.500650",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data recovery analyst at ReceiptRevive Analytics, your task is to develop a program that will:\n"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:36.925831",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:38.416328",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Your task as a data analyst at EngageMetrics is to write a query that performs the following:\n\nFilte"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:39.910842",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Access the Video: Use the provided YouTube link to access the mystery story audiobook.\nConvert to Au"
+  },
+  {
+    "timestamp": "2025-04-17T00:24:44.778439",
+    "ip_address": "20.57.79.2",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a digital forensics analyst at PixelGuard Solutions, your task is to reconstruct the original ima"
+  },
+  {
+    "timestamp": "2025-04-17T00:27:21.311014",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:27:44.692106",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:27:45.133990",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:32:45.461050",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:32:45.718418",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:32:46.242894",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:37:46.108707",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:37:46.429218",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:37:46.619266",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:42:46.550006",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:42:46.941499",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:42:47.658713",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:22.221476",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Ent"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:27.478968",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS req"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:31.697035",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use npx and prettier.\n\nDownload README.md. In the directory where yo"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:33.306272",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can write formulas in Google Sheets. Type this formula into Google Sheets. (It w"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:34.550732",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "'Let's make sure you can write formulas in Excel. Type this formula into Excel.\n\nNote: This will ONL"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:35.815488",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Just above this paragraph, there's a hidden input with a secret value.\n\nWhat is the value in the hid"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:37.087499",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "How many Wednesdays are there in the date range 1981-03-03 to 2012-12-30?"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:38.377328",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "file name is q-extract-csv-zip.zip and unzip file  which has a single extract.csv file inside."
+  },
+  {
+    "timestamp": "2025-04-17T00:44:39.803625",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use JSON. Sort this JSON array of objects by the value of the age fi"
+  },
+  {
+    "timestamp": "2025-04-17T00:44:40.700305",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "+Download q-mutli-cursor-json.txt and use multi-cursors and convert it into a single JSON object, wh"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:01.903032",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to select elements using CSS selectors. Find all <div>s having a foo cl"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:11.560082",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-unicode-data.zip and process the files in  which contains three files with different enco"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:12.449550",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a "
+  },
+  {
+    "timestamp": "2025-04-17T00:45:18.667928",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-replace-across-files.zip  and unzip it into a new folder, then replace all \"IITM\" (in upp"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:19.923238",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use ls with options to list all files in the folder along with their date "
+  },
+  {
+    "timestamp": "2025-04-17T00:45:21.319815",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use mv to move all files under folders into an empty folder. Then rename a"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:22.816448",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-compare-files.zip and extract it. It has 2 nearly identical files, a.txt and b.txt, with "
+  },
+  {
+    "timestamp": "2025-04-17T00:45:24.278236",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns type, units, and price. Each row is a"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:25.618261",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write documentation in Markdown for an **imaginary** analysis of the number of steps you walked each"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:31.217038",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download the image below and compress it losslessly to an image that is less than 1,500 bytes.\nvicky"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:32.758006",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Publish a page using GitHub Pages that showcases your work. Ensure that your email address 24f200643"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:40.738988",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can access Google Colab. Run this program on Google Colab, allowing all required"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:42.131037",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download 'E:\\data science tool\\GA2\\lenna.webp' this image. Create a new Google Colab notebook and ru"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:44.278455",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download this ql-python.json which has the marks of 100 imaginary students.\n\nCreate and deploy a Pyt"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:45.747627",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action "
+  },
+  {
+    "timestamp": "2025-04-17T00:45:54.642134",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create and push an image to Docker Hub. Add a tag named 24f2006438 to the image.\n\nWhat is the Docker"
+  },
+  {
+    "timestamp": "2025-04-17T00:45:55.960405",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-fastapi.csv. This file has 2-columns:\n\nstudentId: A unique identifier for each student, e"
+  },
+  {
+    "timestamp": "2025-04-17T00:46:00.701238",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download Llamafile. Run the Llama-3.2-1B-Instruct.Q6_K.llamafile model with it.\n\nCreate a tunnel to "
+  },
+  {
+    "timestamp": "2025-04-17T00:46:57.718528",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a Python program that uses httpx to send a POST request to OpenAI's API to analyze the sentime"
+  },
+  {
+    "timestamp": "2025-04-17T00:46:59.299500",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:00.864913",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "RapidRoute Solutions is a logistics and delivery company that relies on accurate and standardized ad"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:02.395938",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write just the JSON body (not the URL, nor headers) for the POST request that sends these two pieces"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:03.740869",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "SecurePay, a leading fintech startup, has implemented an innovative feature to detect and prevent fr"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:05.195473",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ShopSmart is an online retail platform that places a high value on customer feedback. Each month, th"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:06.670954",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "InfoCore Solutions is a technology consulting firm that maintains an extensive internal knowledge ba"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:12.292433",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Develop a FastAPI application that:\n\nExposes a GET endpoint /execute?q=... where the query parameter"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:17.383279",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Prompt to Yes"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:18.583965",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ESPN Cricinfo has ODI batting stats for each batsman. The result is paginated across multiple pages."
+  },
+  {
+    "timestamp": "2025-04-17T00:47:35.814089",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Source: Utilize IMDb's advanced web search at https://www.imdb.com/search/title/ to access movie dat"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:46.977969",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:48.046106",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:55.941536",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:56.360572",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a web application that exposes an API with a single query parameter: ?country=. It should fetc"
+  },
+  {
+    "timestamp": "2025-04-17T00:47:56.651391",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:01.735334",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of this initiative, you are tasked with developing a system that automates the following:\n\nA"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:05.127361",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating the extraction and processing of bounding box data, UrbanRide can:\n\nOptimize Routing: "
+  },
+  {
+    "timestamp": "2025-04-17T00:48:14.467894",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning Text Editor and havi"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:17.236693",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating this data retrieval and filtering process, CodeConnect gains several strategic advanta"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:18.590272",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow "
+  },
+  {
+    "timestamp": "2025-04-17T00:48:27.589605",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This file '''E://data science tool//GA4/q-extract-tables-from-pdf.pdf''',  contains a table of stude"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:29.113874",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of the Documentation Transformation Project, you are a junior developer at EduDocs tasked wi"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:30.505798",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "You need to clean this Excel data and calculate the total margin for all transactions that satisfy t"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:31.925935",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at EduTrack Systems, your task is to process this text file and determine the numb"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:33.413586",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst, you are tasked with determining how many successful GET requests for pages under "
+  },
+  {
+    "timestamp": "2025-04-17T00:48:36.513908",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This GZipped Apache log file (61MB) \"E:\\data science tool\\GA5\\s-anand.net-May-2024.gz\" has 258,074 r"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:38.880507",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at GlobalRetail Insights, you are tasked with extracting meaningful insights from "
+  },
+  {
+    "timestamp": "2025-04-17T00:48:39.893416",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data recovery analyst at ReceiptRevive Analytics, your task is to develop a program that will:\n"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:41.025007",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:42.513551",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Your task as a data analyst at EngageMetrics is to write a query that performs the following:\n\nFilte"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:43.419806",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Access the Video: Use the provided YouTube link to access the mystery story audiobook.\nConvert to Au"
+  },
+  {
+    "timestamp": "2025-04-17T00:48:48.125471",
+    "ip_address": "40.76.181.243",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a digital forensics analyst at PixelGuard Solutions, your task is to reconstruct the original ima"
+  },
+  {
+    "timestamp": "2025-04-17T00:52:47.405509",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:52:48.436062",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:52:56.550227",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T00:52:57.038323",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:30.750369",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Install and run Visual Studio Code. In your Terminal (or Command Prompt), type code -s and press Ent"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:34.787640",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Running uv run --with httpie -- https [URL] installs the Python package httpie and sends a HTTPS req"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:39.401507",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use npx and prettier.\n\nDownload README.md. In the directory where yo"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:40.842516",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can write formulas in Google Sheets. Type this formula into Google Sheets. (It w"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:42.270957",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "'Let's make sure you can write formulas in Excel. Type this formula into Excel.\n\nNote: This will ONL"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:43.732471",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Just above this paragraph, there's a hidden input with a secret value.\n\nWhat is the value in the hid"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:45.349941",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "How many Wednesdays are there in the date range 1981-03-03 to 2012-12-30?"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:46.870228",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "file name is q-extract-csv-zip.zip and unzip file  which has a single extract.csv file inside."
+  },
+  {
+    "timestamp": "2025-04-17T01:21:48.358356",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use JSON. Sort this JSON array of objects by the value of the age fi"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:49.793784",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "+Download q-mutli-cursor-json.txt and use multi-cursors and convert it into a single JSON object, wh"
+  },
+  {
+    "timestamp": "2025-04-17T01:21:58.971704",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to select elements using CSS selectors. Find all <div>s having a foo cl"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:03.913768",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:03.943562",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:04.157756",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:13.995817",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:15.211773",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-unicode-data.zip and process the files in  which contains three files with different enco"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:16.722538",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you know how to use GitHub. Create a GitHub account if you don't have one. Create a "
+  },
+  {
+    "timestamp": "2025-04-17T01:22:27.186843",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-replace-across-files.zip  and unzip it into a new folder, then replace all \"IITM\" (in upp"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:28.585915",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use ls with options to list all files in the folder along with their date "
+  },
+  {
+    "timestamp": "2025-04-17T01:22:29.545568",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download  and extract it. Use mv to move all files under folders into an empty folder. Then rename a"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:30.480694",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-compare-files.zip and extract it. It has 2 nearly identical files, a.txt and b.txt, with "
+  },
+  {
+    "timestamp": "2025-04-17T01:22:31.850579",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns type, units, and price. Each row is a"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:33.340989",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write documentation in Markdown for an **imaginary** analysis of the number of steps you walked each"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:34.835900",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download the image below and compress it losslessly to an image that is less than 1,500 bytes.\nvicky"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:36.545934",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Publish a page using GitHub Pages that showcases your work. Ensure that your email address 24f200643"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:44.243640",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Let's make sure you can access Google Colab. Run this program on Google Colab, allowing all required"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:45.627681",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download 'E:\\data science tool\\GA2\\lenna.webp' this image. Create a new Google Colab notebook and ru"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:48.183387",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download this ql-python.json which has the marks of 100 imaginary students.\n\nCreate and deploy a Pyt"
+  },
+  {
+    "timestamp": "2025-04-17T01:22:49.716941",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a GitHub action on one of your GitHub repositories. Make sure one of the steps in the action "
+  },
+  {
+    "timestamp": "2025-04-17T01:22:58.935207",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create and push an image to Docker Hub. Add a tag named 24f2006438 to the image.\n\nWhat is the Docker"
+  },
+  {
+    "timestamp": "2025-04-17T01:23:00.241511",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download q-fastapi.csv. This file has 2-columns:\n\nstudentId: A unique identifier for each student, e"
+  },
+  {
+    "timestamp": "2025-04-17T01:23:05.607947",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Download Llamafile. Run the Llama-3.2-1B-Instruct.Q6_K.llamafile model with it.\n\nCreate a tunnel to "
+  },
+  {
+    "timestamp": "2025-04-17T01:23:15.393779",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning 2FA and having a min"
+  },
+  {
+    "timestamp": "2025-04-17T01:23:15.402665",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-17T01:23:15.698676",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "There is a tickets table in a SQLite database that has columns: type, units, and price. Each row is "
+  },
+  {
+    "timestamp": "2025-04-17T01:23:15.991343",
+    "ip_address": "103.158.43.22",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:02.870393",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a Python program that uses httpx to send a POST request to OpenAI's API to analyze the sentime"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:04.537071",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "LexiSolve Inc. is a startup that delivers a conversational AI platform to enterprise clients. The sy"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:06.294003",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "RapidRoute Solutions is a logistics and delivery company that relies on accurate and standardized ad"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:07.824880",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write just the JSON body (not the URL, nor headers) for the POST request that sends these two pieces"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:09.270538",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "SecurePay, a leading fintech startup, has implemented an innovative feature to detect and prevent fr"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:10.812467",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ShopSmart is an online retail platform that places a high value on customer feedback. Each month, th"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:12.724046",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "InfoCore Solutions is a technology consulting firm that maintains an extensive internal knowledge ba"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:18.372351",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Develop a FastAPI application that:\n\nExposes a GET endpoint /execute?q=... where the query parameter"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:23.358143",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Prompt to Yes"
+  },
+  {
+    "timestamp": "2025-04-17T01:24:24.787126",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "ESPN Cricinfo has ODI batting stats for each batsman. The result is paginated across multiple pages."
+  },
+  {
+    "timestamp": "2025-04-17T01:24:43.337844",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Source: Utilize IMDb's advanced web search at https://www.imdb.com/search/title/ to access movie dat"
+  },
+  {
+    "timestamp": "2025-04-17T01:25:04.498151",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Write a web application that exposes an API with a single query parameter: ?country=. It should fetc"
+  },
+  {
+    "timestamp": "2025-04-17T01:25:09.943690",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of this initiative, you are tasked with developing a system that automates the following:\n\nA"
+  },
+  {
+    "timestamp": "2025-04-17T01:25:12.069584",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating the extraction and processing of bounding box data, UrbanRide can:\n\nOptimize Routing: "
+  },
+  {
+    "timestamp": "2025-04-17T01:25:21.301177",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Search using the Hacker News RSS API for the latest Hacker News post mentioning Text Editor and havi"
+  },
+  {
+    "timestamp": "2025-04-17T01:25:24.028767",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "By automating this data retrieval and filtering process, CodeConnect gains several strategic advanta"
+  },
+  {
+    "timestamp": "2025-04-17T01:25:25.510184",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow "
+  },
+  {
+    "timestamp": "2025-04-17T01:25:34.252508",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This file '''E://data science tool//GA4/q-extract-tables-from-pdf.pdf''',  contains a table of stude"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:30.862455",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As part of the Documentation Transformation Project, you are a junior developer at EduDocs tasked wi"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:32.585721",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "You need to clean this Excel data and calculate the total margin for all transactions that satisfy t"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:34.788497",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at EduTrack Systems, your task is to process this text file and determine the numb"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:36.298201",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst, you are tasked with determining how many successful GET requests for pages under "
+  },
+  {
+    "timestamp": "2025-04-17T01:26:39.434479",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "This GZipped Apache log file (61MB) \"E:\\data science tool\\GA5\\s-anand.net-May-2024.gz\" has 258,074 r"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:41.825796",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at GlobalRetail Insights, you are tasked with extracting meaningful insights from "
+  },
+  {
+    "timestamp": "2025-04-17T01:26:43.529205",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data recovery analyst at ReceiptRevive Analytics, your task is to develop a program that will:\n"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:44.648547",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:46.237891",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Your task as a data analyst at EngageMetrics is to write a query that performs the following:\n\nFilte"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:47.718729",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "Access the Video: Use the provided YouTube link to access the mystery story audiobook.\nConvert to Au"
+  },
+  {
+    "timestamp": "2025-04-17T01:26:53.370637",
+    "ip_address": "20.43.245.193",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "As a digital forensics analyst at PixelGuard Solutions, your task is to reconstruct the original ima"
+  },
+  {
+    "timestamp": "2025-04-17T01:27:05.107035",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:27:05.290206",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:27:05.450510",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:27:15.528977",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:41:24.803269",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:41:24.883263",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T01:41:25.986154",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T08:55:19.981998",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T08:55:21.215641",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T19:38:20.268899",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T19:38:20.322748",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T19:39:01.104690",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "curl/8.10.1",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T19:59:45.681452",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T19:59:45.798923",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T19:59:46.875080",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "Python/3.9 aiohttp/3.11.13",
+    "query": "health_check"
+  },
+  {
+    "timestamp": "2025-04-17T20:00:45.763938",
+    "ip_address": "34.58.213.34",
+    "endpoint": "/api/",
+    "user_agent": "python-requests/2.32.3",
+    "query": "\nAs a data analyst at DataSure Technologies, you have been tasked with developing a script that proc"
+  },
+  {
+    "timestamp": "2025-04-17T20:01:43.592006",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "curl/8.10.1",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T20:02:43.159683",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "curl/8.10.1",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  },
+  {
+    "timestamp": "2025-04-17T20:03:42.620157",
+    "ip_address": "43.230.104.189",
+    "endpoint": "/api/",
+    "user_agent": "curl/8.10.1",
+    "query": "As a data analyst at DataSure Technologies, you have been tasked with developing a script that proce"
+  }
+]
